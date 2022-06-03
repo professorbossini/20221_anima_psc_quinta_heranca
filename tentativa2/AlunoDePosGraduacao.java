@@ -1,3 +1,4 @@
+package tentativa2;
 //É-UM
 public class AlunoDePosGraduacao extends Pessoa{
     char conceito;

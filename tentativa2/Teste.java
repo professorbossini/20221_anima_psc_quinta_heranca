@@ -1,3 +1,4 @@
+package tentativa2;
 public class Teste {
     public static void main(String[] args) {
         AlunoDeGraduacao aluno = new AlunoDeGraduacao();
